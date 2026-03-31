@@ -8,12 +8,10 @@
 ## 📸 App Preview
 
 ### 🏁 Prediction Result
-![Prediction](<img width="1920" height="1028" alt="prediction_result" src="https://github.com/user-attachments/assets/d7d61c0b-5d1a-43a1-90f6-e29f6d052b2a" />
-)
+![Prediction](prediction_result.png)
 
 ### 📊 Insights Dashboard
-![Insights](<img width="1920" height="1032" alt="app_insights" src="https://github.com/user-attachments/assets/bd90f072-8646-435a-bb2f-67984d775117" />
-)
+![Insights](app_insights.png)
 
 ---
 
