@@ -1,7 +1,6 @@
 # 🏎️ F1 Race Finish Position Predictor
 
-![F1 Predictor](screenshot.png)
-
+![F1 Predictor]
 > Predicting Formula 1 race finishing positions using machine learning — built with real Ergast F1 data, trained on 1,600+ race records, and deployed as an interactive Streamlit web app.
 
 ---
@@ -146,5 +145,6 @@ streamlit run app.py
 ## Author
 
 **Rahul U**
+
 Electronics and Communication Engineering
 [GitHub](https://github.com/yourahul) · [LinkedIn](https://www.linkedin.com/in/rahul-u-507b57286)
